@@ -1,9 +1,29 @@
 .moneybag {
-    height: 25%;
-    width: 20%;
+    height: 100px;
+    width: 200px;
     padding-left: 0px;
 }
+ nav {
+    display: flex;
+ }
 
-.header-pic {
-    padding-left: 0px;
-}
+ ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937 ;
+ }
+
+ li {
+    padding: 5px;
+ }
+
+ a {
+    text-decoration: none;
+    color: #f9faf8;
+ }
