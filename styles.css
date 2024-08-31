@@ -2,6 +2,7 @@
     height: 100px;
     width: 200px;
     padding-left: 0px;
+   
 }
  nav {
     display: flex;
@@ -21,9 +22,31 @@
 
  li {
     padding: 5px;
+    
  }
 
  a {
     text-decoration: none;
     color: #f9faf8;
  }
+
+ img.thai {
+   height: 300px;
+   width: 300px;
+   margin-right: 200px;
+ }
+
+main { 
+   display: flex;
+   justify-content: space-between;
+   background-color: #1f2937;
+}
+
+h1 {
+   color: #f9faf8;
+}
+
+h1.alttext {
+   color: green;
+}
+
