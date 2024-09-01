@@ -47,6 +47,11 @@ h1 {
 }
 
 h1.alttext {
-   color: green;
+   color: black;
+text-align: center;
 }
 
+.florida.NZ {
+   height: 150px;
+   width: 150px;
+}
