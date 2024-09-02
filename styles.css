@@ -51,7 +51,27 @@ h1.alttext {
 text-align: center;
 }
 
-.florida.NZ {
+.florida {
    height: 150px;
    width: 150px;
+}
+
+.NZ {
+   height: 150px;
+   width: 150px;
+}
+
+.NY {
+   height: 150px;
+   width: 150px;
+}
+
+.thailand {
+   height: 150px;
+   width: 150px;
+}
+
+.vacation {
+   display: flex;
+   flex-direction: row;
 }
