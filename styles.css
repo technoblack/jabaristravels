@@ -74,16 +74,31 @@ text-align: center;
 .vacation {
    display: flex;
    flex-direction: row;
-   justify-content: center;
+   justify-content: center; 
+   gap: 40px;
 }
+
 
 * {
    .roboto-light 
       font-family: "Roboto", system-ui;
       font-weight: 300;
       font-style: normal;
-    
-   }
+    }
 
 
+    .lastquote {
+      color: black;
+      text-align: center;
+      font-style: italic;
+    }
 
+.quote {
+   background-color: #e5e7eb;
+}
+
+
+.last-signup {
+   display: flex;
+   justify-content: space-between;
+}
