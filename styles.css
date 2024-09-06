@@ -100,5 +100,5 @@ text-align: center;
 
 .last-signup {
    display: flex;
-   justify-content: space-between;
+   justify-content: space-around;
 }
